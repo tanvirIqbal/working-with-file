@@ -1,0 +1,10 @@
+G:\Tutorials\Dot Net\Git\working-with-file\bin\Debug\netcoreapp2.0\working-with-file.deps.json
+G:\Tutorials\Dot Net\Git\working-with-file\bin\Debug\netcoreapp2.0\working-with-file.runtimeconfig.json
+G:\Tutorials\Dot Net\Git\working-with-file\bin\Debug\netcoreapp2.0\working-with-file.runtimeconfig.dev.json
+G:\Tutorials\Dot Net\Git\working-with-file\bin\Debug\netcoreapp2.0\working-with-file.dll
+G:\Tutorials\Dot Net\Git\working-with-file\bin\Debug\netcoreapp2.0\working-with-file.pdb
+G:\Tutorials\Dot Net\Git\working-with-file\obj\Debug\netcoreapp2.0\working-with-file.csproj.CoreCompileInputs.cache
+G:\Tutorials\Dot Net\Git\working-with-file\obj\Debug\netcoreapp2.0\working-with-file.AssemblyInfoInputs.cache
+G:\Tutorials\Dot Net\Git\working-with-file\obj\Debug\netcoreapp2.0\working-with-file.AssemblyInfo.cs
+G:\Tutorials\Dot Net\Git\working-with-file\obj\Debug\netcoreapp2.0\working-with-file.dll
+G:\Tutorials\Dot Net\Git\working-with-file\obj\Debug\netcoreapp2.0\working-with-file.pdb
